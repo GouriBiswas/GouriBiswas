@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GouriBiswas
-- 👀 I’m interested in WEb Development 
-- 🌱 I’m currently learning about AI.
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning about something.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me :- gouribiswas011@gmail.com 
 - ⚡ Fun fact: Avocados are fruits, not vegetables
