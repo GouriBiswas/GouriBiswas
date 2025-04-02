@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on Web Development .<br>👯 I’m looking to collaborate on Projects!<br>🤝 I’m looking for help with New Technology, Frameworks and exciting projects..<br>🌱 I’m currently learning.<br>💬 Aim for the next level.<br>⚡ Fun fact - Avocados are fruits, not vegetables<br><br>
+<br>🔭 I’m currently working on Web Development .<br>👯 I’m looking to collaborate on Projects!<br>🤝 I’m looking for help with New Technology, Frameworks and exciting projects..<br>🌱 I’m currently learning.<br>💬 Aim for the next level.<br>⚡ Fun fact - A shrimp’s heart is in its head! 🦐❤️<br><br>
 
 
 ## 🌐 Socials:
